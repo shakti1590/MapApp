@@ -6,7 +6,14 @@
  - Java Script
  - Redux
  - CSS
- - OSM 
+ - OSM
+
+### Features:
+ - Map Interface: The app displays a map interface using OpenStreetMap (OSM). Users can view maps for different regions such as the United States, India, and the 
+                  United Kingdom.
+ - Region Information: When a region is selected from the dropdown menu and the "Load" button is clicked, the map displays the selected region. Additionally, a 
+                       card is shown on the map with details about the region, including currency symbol, units of speed, distance, volume (e.g., kmph, kilometers, 
+                       liters), and timezone information.
 
  ## Install
 
